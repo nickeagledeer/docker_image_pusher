@@ -1,1 +1,1 @@
-bitnami/redis
+mysql:latest
